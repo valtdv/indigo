@@ -1,0 +1,23 @@
+.entry {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 33px;
+  width: 550px;
+}
+
+.entry__info {
+  max-width: 313px;
+}
+
+.entry__title {
+  font-size: 16px;
+  line-height: 27px;
+  font-family: 'Source Serif Pro', serif;
+}
+
+.entry__author,
+.entry__date {
+  font-size: 13px;
+  line-height: 21px;
+  font-family: 'Overpass', sans-serif;
+}

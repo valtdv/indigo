@@ -1,0 +1,34 @@
+.top-menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 50px 0 90px;
+  width: 100vw;
+}
+
+.top-menu__logo {
+  width: 78.53px;
+  height: 21.84px;
+}
+
+.nav__list {
+  display: flex;
+  list-style: none;
+}
+
+.nav__item {
+  margin: 0 24px;
+}
+
+.nav__item a {
+  font-size: 16px;
+  font-family: 'Overpass', sans-serif;
+  color: #1A1A1A;
+  text-transform: uppercase;
+}
+
+.top-menu__greeting {
+  font-weight: 300;
+  font-size: 13px;
+  font-family: 'Overpass', sans-serif;
+}

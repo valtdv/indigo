@@ -1,0 +1,19 @@
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+.login__img {
+  margin-bottom: 51px;
+  width: 200.78px;
+  height: 55.84px;
+}
+
+.login__underline {
+  margin-bottom: 51px;
+  width: 550px;
+  border: 1px solid #e6e6e6;
+}
